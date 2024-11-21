@@ -5,7 +5,7 @@ Application "asocial":
 
 Sources: 
 - dépôt: https://dsportes.github.com/asocial-app
-- tag: 10
+- tag: V1.1
 - patchs: _aucun_
 
 URLS externes: /etc/urls.json
