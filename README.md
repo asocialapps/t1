@@ -4,8 +4,9 @@ Application "asocial":
 - url: https://asocialapps.github.io/t1
 
 Sources: 
-- dépôt: https://dsportes.github.com/asocial-app
-- tag: V1.1
+- dépôt: https://github.com/dsportes/asocial-app/tree/v1.1
+- tag: v1.1
 - patchs: _aucun_
 
 URLS externes: /etc/urls.json
+
