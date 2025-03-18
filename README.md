@@ -3,6 +3,6 @@ Application "asocial":
 - url: https://asocialapps.github.io/t1
 
 Sources: 
-- dépôt: https://github.com/dsportes/asocial-app/tree/V1.02
-- tag: V1.02
+- dépôt: https://github.com/dsportes/asocial-app/tree/v1.3
+- tag: v1.3
 - patchs: _aucun_
