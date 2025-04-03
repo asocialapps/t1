@@ -13,7 +13,7 @@
     "z": {
       "opurl": "http://localhost:8080",
       "pubsuburl": "http://localhost:8080",
-      "orgs": []        
+      "orgs": ["local"]        
     }
   } 
 }

@@ -1,8 +1,9 @@
 Application "asocial":
-- build: v1.4.0 - 1.01
+- distribution: t1
+- build: v1.5.1
 - url: https://asocialapps.github.io/t1
+- patch: aucun
 
 Sources: 
-- dépôt: https://github.com/dsportes/asocial-app/tree/v1.4.0
-- tag: v1.4.0
-- patchs: _aucun_
+- dépôt: https://github.com/dsportes/asocial-app/tree/v1.5.1
+- tag: v1.5.1
