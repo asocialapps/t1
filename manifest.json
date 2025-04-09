@@ -1,1 +1,1 @@
-{"name":"asocial","short_name":"asocial","description":"Réseau a-social","display":"standalone","start_url":".","icons":[{"src":"icons/favicon-128x128.png","sizes":"128x128","type":"image/png"}],"orientation":"portrait","background_color":"#ffffff","theme_color":"#027be3"}
+{"name":"asocial","short_name":"asocial","description":"Réseau a-social","display":"standalone","start_url":".","icons":[{"src":"icons/favicon-128x128.jpg","sizes":"128x128","type":"image/jpg"}],"orientation":"portrait","background_color":"#ffffff","theme_color":"#027be3"}
