@@ -1,0 +1,69 @@
+[
+  "DOCpg",  
+  ["pages",
+    [ "pages_struct",
+      "top_bar", 
+      "bottom_bar", 
+      "page_accueil", 
+      "menu_navigation"
+    ],
+    ["page_login", "page_login_par",
+      "page_login_m", "page_login_pin", "page_ficavion", "page_login_pp", "nouvelle_version" 
+    ],
+    "page_espace",
+    "page_partition",
+    "page_session",
+    "page_compte", 
+    ["page_compta",
+      ["compta_alertes", 
+        "alerte_dlvat", "alerte_dlv", "alerte_dlvc", "alerte_ar", "alerte_ls",
+        "alerte_nr", "alerte_vr", "alerte_ral", "alerte_esp", "alerte_part", "alerte_cpt"
+      ],
+      ["compta_compta", 
+        "compta_synth", "compta_detail", "compta_tarifs"
+      ],
+      "compta_credits",
+      "compta_chats" 
+    ],
+    ["page_groupes",
+      "page_groupe", "page_contactgr", "dial_una", "dial_heb", "dial_invit", "dial_invitack",
+      "dial_droits", "dial_radiation", "chatgr"
+    ],
+    "page_people", 
+    "page_chats",
+    ["page_notes", "dial_notenv", "dial_notemaj", "dial_noteht",
+      "dial_noteex", "dial_notefic", "dial_notedl", "album_photos"],
+    ["page_sponsoring",
+      "sponsoring_d", "sponsoring_a"
+    ],
+    "boite_automaj",
+    "panel_outils"
+  ],
+  ["dial",
+    "dial_editeur",
+    "dial_majalerte0",
+    "dial_majalerte1",
+    "dial_majalerte2",
+    "cv_aff",
+    "cv_maj",
+    "memoht_maj",
+    "chat_nouveau",
+    "chat_maj",
+    "suppr_avatar"
+  ],
+  ["how_to",
+    "ht_compte",
+    "ht_sponsoriser",
+    "ht_mutation_oa",
+    "ht_contacts",
+    "ht_groupes",
+    "ht_notes",
+    "ht_alertes",
+    "ht_delegue",
+    "ht_comptable",
+    "ht_admin"
+  ],
+  ["special",
+    "page_admin"
+  ]
+]
